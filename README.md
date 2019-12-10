@@ -12,3 +12,5 @@ comprises of 5 stages
 1) Source Code
 2) Build & Tests
 3) Artifact store
+4) Deployment
+5) Monitoring
