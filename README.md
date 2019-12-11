@@ -10,7 +10,8 @@ __R.E Kalman__ "On the General Theory of Control Systems", Proc. 1st Int. Cong. 
 ### Development process optimization: ### 
 comprises of 5 stages
 1) Source Code (includes GitHub, Git)
-2) Build & Tests
+2) Build & Tests (Spinnaker, Jenkins)
 3) Artifact store
 4) Deployment
 5) Monitoring
+
