@@ -1,0 +1,9 @@
+## class SRE implements DevOps:
+
+Execute DevOps for system reliability with explicit common sense
+
+SRE practitioners in the wild
+1) Google
+2) Uber
+3) Lyft
+4) Netflix
