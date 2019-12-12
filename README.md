@@ -1,6 +1,6 @@
 # Google-Cloud-
-This repository includes all the files, folders and projects which I develop while learning GCP
-There is a specialisation in Coursera
+This repository includes all the files, folders and projects which I develop while learning GCP.
+There is also a specialization on Coursera.
 
 ## Observability: ##
 Observability is a measure of how well __internal states__ of a system can be __inferred__ from knowledge of its __external outputs.__
