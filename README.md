@@ -15,3 +15,4 @@ comprises of 5 stages
 4) Deployment (Chef)
 5) Monitoring
 
+December 5: Google Cloud Community Day
