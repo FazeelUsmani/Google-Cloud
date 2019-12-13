@@ -18,7 +18,10 @@ comprises of 5 stages
 December 5: Google Cloud Community Day
 
 Machine Learning is....
+
 Data + algorithms = insights
+
 Statistics + programming = predictions
+
 ....because Heuristics don't scale well
 
