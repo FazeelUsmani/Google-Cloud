@@ -22,4 +22,3 @@ Data + algorithms = insights
 Statistics + programming = predictions
 ....because Heuristics don't scale well
 
-said by Dave Elliott. True, isn't it?
