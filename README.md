@@ -16,8 +16,10 @@ comprises of 5 stages
 5) Monitoring
 
 December 5: Google Cloud Community Day
+
 Machine Learning is....
 Data + algorithms = insights
 Statistics + programming = predictions
 ....because Heuristics don't scale well
+
 said by Dave Elliott. True, isn't it?
